@@ -39,20 +39,20 @@ nav {
    left: 8px;
    top: 37px;
 }
-/* Washington and State */
+/* Busy Bus */
 .title1 {
  font-family: Helvetica Neue,Arial sans-serif;
  font-style: normal;
- font-size: 3em;
+ font-size: 2.5em;
  line-height: 1em;
  color: #425A56;
 position: absolute;
 width: 200px;
 height: 32px;
-left: 2.5em;
-top: .7em;
+left: 2.7em;
+top: 1em;
 text-align: center;
-font-weight: 530;
+font-weight: 350;
 }
 
 .arrow-left {
