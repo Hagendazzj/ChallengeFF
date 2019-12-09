@@ -229,6 +229,7 @@ color: #425A56;
     text-align: left;
     font-size: 1.1em;
     padding-bottom: .4em;
+    width: 8em;
     
 }
 
@@ -237,10 +238,17 @@ color: #425A56;
     text-align: right;
     font-size: 1.4em;
     font-weight: 450;
+    padding-bottom: .2em;
+
+
     
 }
 
 .time {
+    text-align: right;
+}
+
+.every {
     text-align: right;
 }
 
